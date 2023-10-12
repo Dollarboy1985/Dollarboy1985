@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... learning ethical hacking 
 - 🌱 I’m currently learning ... GitHub 
 - 💞️ I’m looking to collaborate on ... GitHub 
-- 📫 How to reach me ...is very easy 
+- 📫 How to reach me ...is not easy 
 
 <!---
 Dollarboy1985/Dollarboy1985 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
